@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alexrodblas
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning unity, c# and c++
-- 💞️ I’m looking to collaborate on indie game projects
+- 👀 I'm a Higher Vocational Training graduate in Multiplatform Application Development (DAM - Video Games) with a strong interest in software development.
+- 🌱 I have experience developing projects with C# and Unity, and I'm currently expanding my knowledge in .NET, ASP.NET Core, Entity Framework Core.
 - 📫 How to reach me alexrodblas2206@gmail.com
 
 <!---
